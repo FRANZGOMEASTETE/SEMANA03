@@ -9,7 +9,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author USER 17
+ * @author FRANZGOMEZ
  */
 public class CVentaContado extends javax.swing.JFrame {
 

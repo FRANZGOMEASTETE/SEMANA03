@@ -6,7 +6,7 @@ package Modelo;
 
 /**
  *
- * @author dgarc
+ * @author FRANZGOMEZ
  */
 public class Credito extends Venta {
 

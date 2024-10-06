@@ -6,7 +6,7 @@ package Vista;
 
 /**
  *
- * @author USER 17
+ * @author FRANZGOMEZ
  */
 public class CIngreso extends javax.swing.JFrame {
 
